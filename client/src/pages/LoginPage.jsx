@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
+import RegisterPage from './RegisterPage'
 
 export default function LoginPage() {
   return (
